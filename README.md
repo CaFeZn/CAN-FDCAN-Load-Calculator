@@ -54,11 +54,12 @@ CAN总线负载计算：支持经典CAN和FDCAN负载计算，帮助用户在设
 
 ## 参考链接
 
+原文需登录，本仓库提供了一个mhtml格式的网页快照可下载直接浏览
+
 原文链接：[【RM2025-西南石油大学-铁人】CAN负载计算器和提高CAN总线利用率技巧分享](https://bbs.robomaster.com/article/557395?source=8)
 
 <img width="1713" height="468" alt="image" src="https://github.com/user-attachments/assets/e0ca7674-4014-4044-846a-fa8e6a22551d" />
 
-原文需登录，本仓库提供了一个网页快照可下载直接浏览
 
 由 lc6464 制作的[网页版本计算器](https://lc6464.github.io/CANbus-Load-Calculator/)
 
